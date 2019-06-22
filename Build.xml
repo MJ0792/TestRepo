@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
   <project name ="Building with Ant Project" default ="info">
-  <target name ="info"
+  <target name ="info">
       <echo>Building file using Ant!!</echo>
    </target>	
 </project>   
